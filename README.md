@@ -5,13 +5,15 @@
 </p>
 
 <h4 align="center">
- A self-tech student on the way to become a developer.....
-<br/>
-💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
-and 
-<a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
-<br/>
-- Willing to contribute in **Open Source Projects**
+ <p align=justify>
+            A self-tech student on the way to become a developer.....
+            <br/>
+           💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
+            and 
+            <a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
+            <br/>
+            - Willing to contribute in **Open Source Projects**
+ </p>
 </h4>
 
 <h4 align="center">
