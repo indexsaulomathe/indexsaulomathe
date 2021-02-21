@@ -1,13 +1,13 @@
-<h1 align="center"> Hi there, I'm Saulo Matheus 👋</h1>
+## Hi there, I'm Saulo Matheus 👋
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
 
-<h4 align="center"> A self-tech student on the way to become a developer.....</h4>
+## A self-tech student on the way to become a developer.....
 
-<div align="center">
+
 <p align=justify>
 -- Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
@@ -15,21 +15,22 @@ and
 <br/>
 -- Willing to contribute in **Open Source Projects**
 </p>
-</div>
-<h4 align="center">
+
+
+<p align="center">
  You can find me in.....
 <br/>
 <a href="https://github.com/indexsaulomathe"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/indexsaulomathe/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 
-</h4>
+</p>
 
 
-<h4 align="center">
+<p align="center">
  My Techs.....
 <br/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
  
  
-</h4>
+</p>
