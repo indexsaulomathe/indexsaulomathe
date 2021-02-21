@@ -15,7 +15,7 @@ and
 <a href="https://github.com/indexsaulomathe/">@indexsaulomathe</a>
 </p>
 
-<p align="">
+<p align="center">
 - Willing to contribute more and more in **Open Source Projects**
 </p>
 
