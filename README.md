@@ -5,8 +5,7 @@
 </p>
 
 
-## A self-tech student on the way to become a developer.....
-<br/>
+<h1 align="center"> A self-tech student on the way to become a developer.....</h1>
 
 <p align=justify>
 -- Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
