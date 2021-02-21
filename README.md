@@ -8,7 +8,7 @@ I'm Indexsaulomathe, a self-tech student on the way to become a developer.
 💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
 <a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
-|  🌱  |
+|     |
 💬 connect <a href="https://www.linkedin.com/in/indexsaulomathe/">@indexsaulomathe</a>
 </h4>
 <p  align="center">
@@ -17,9 +17,9 @@ and
 
 <br/>
 <h3 align="center">
-My Tech Stacks
+My Techs
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
+<img src="" alt="stacks"/>
 </h3>
