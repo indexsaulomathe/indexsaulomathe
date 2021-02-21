@@ -14,7 +14,7 @@ and
 - Willing to contribute in **Open Source Projects**
 </h4>
 
-<h4 alight="center>
+<h4 align="center>
   
 </h4>
 
