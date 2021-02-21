@@ -7,6 +7,7 @@
 
 <h4 align="center"> A self-tech student on the way to become a developer.....</h4>
 
+<div align="center">
 <p align=justify>
 -- Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
@@ -14,7 +15,7 @@ and
 <br/>
 -- Willing to contribute in **Open Source Projects**
 </p>
-
+</div>
 <h4 align="center">
  You can find me in.....
 <br/>
