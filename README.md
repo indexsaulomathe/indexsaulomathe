@@ -8,12 +8,13 @@
 ## A self-tech student on the way to become a developer.....
 <br/>
 
---Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
+<p align=justify>
+-- Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
 <a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
 <br/>
 -- Willing to contribute in **Open Source Projects**
-
+</p>
 
 <h4 align="center">
  You can find me in.....
