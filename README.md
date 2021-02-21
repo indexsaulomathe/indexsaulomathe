@@ -1,7 +1,7 @@
 ## Hi there, I'm Saulo Matheus 👋
 
 <p align="center">
-<img width="20%" src="<img src="https://img.icons8.com/clouds/200/000000/user-male.png"/>"/>
+<img width="20%" src="<img src="https://img.icons8.com/clouds/200/000000/user-male.png"/>
 </p>
 
 ## A self-tech student on the way to become a developer.....
