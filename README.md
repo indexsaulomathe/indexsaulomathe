@@ -1,5 +1,9 @@
 <h1 align="center"> Hi there, I'm Saulo Matheus 👋</h1>
 
+<p align="center">
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+</p>
+
 <h4 align="center">
 A self-tech student on the way to become a developer.
 <br/>
@@ -21,4 +25,7 @@ and
 
 <h4 align="center">
 My Techs
+<br/>
+ 
+ 
 </h4>
