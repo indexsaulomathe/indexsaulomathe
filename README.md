@@ -4,7 +4,7 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
-<h4 align="center">
+<h4 align="">
 A self-tech student on the way to become a developer.
 <br/>
 💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
