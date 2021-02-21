@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there, I'm Saulo Matheus 👋</h3>
+<h1 align="center"> Hi there, I'm Saulo Matheus 👋</h1>
 
-<p align="center">
+<h4 align="center">
 A self-tech student on the way to become a developer.
-</p>
+</h4>
 
 <h4 align="center">
 💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
@@ -21,10 +21,12 @@ and
 
 
 <br/>
-<h3 align="center">
-My Techs
-</h3>
 
-<h3 align="center">
+
+<h4 align="center">
+My Techs
+</h4>
+
+<h4 align="center">
 <img src="" alt="stacks"/>
-</h3>
+</h4>
