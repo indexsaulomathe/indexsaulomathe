@@ -1,7 +1,7 @@
-<h3 align="center"> Hi there 👋</h3>
+<h1 align="center"> Hi there, I'm Saulo Matheus 👋</h3>
 
 <p align="center">
-I'm Indexsaulomathe, a self-tech student on the way to become a developer.
+A self-tech student on the way to become a developer.
 </p>
 
 <h4 align="center">
