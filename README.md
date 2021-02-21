@@ -5,7 +5,7 @@ I'm Indexsaulomathe, a self-tech student on the way to become a developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akaskyiar">@akaskyiar</a>
+💻 studying in <a href="https://www.freecodecamp.org/</a>@freecodecamp and <a href="https://app.rocketseat.com.br/me/indexsaulomathe</a>@rocketseat |                              | 💬 connect <a href="https://www.linkedin.com/in/indexsaulomathe/">@indexsaulomathe</a>
 </h4>
 <p  align="center">
 <a href="https://akasrai.github.io/">https://akasrai.github.io</a>
