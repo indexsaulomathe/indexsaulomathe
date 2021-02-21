@@ -8,6 +8,7 @@ A self-tech student on the way to become a developer.
 💻 studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
 <a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
+<br/>
 - Willing to contribute in **Open Source Projects**
 </h4>
 
