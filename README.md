@@ -6,7 +6,7 @@
 
 ## A self-tech student on the way to become a developer.....
 
--- Studying in <a href="https://www.freecodecamp.org/">@freecodecamp</a>
+-- study tips <a href="https://www.freecodecamp.org/">@freecodecamp</a>
 and 
 <a href="https://app.rocketseat.com.br/me/indexsaulomathe">@rocketseat</a>
 <br/>
