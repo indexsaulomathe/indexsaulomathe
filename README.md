@@ -4,7 +4,7 @@
 <img width="20%" src="https://img.icons8.com/clouds/200/000000/user-male.png"/>
 </p>
 
-## A self-tech student on the way to become a developer.....
+## A self-taught student on the way to become a developer.....
 
 --  
 -- Willing to contribute in **Open Source Projects**
