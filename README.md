@@ -4,7 +4,7 @@
 <img width="20%" src="https://img.icons8.com/clouds/200/000000/user-male.png"/>
 </p>
 
-## A self-taught student on the way to become a developer.....
+## A self-taught fron-end developer.....
 
 --  
 -- Willing to contribute in **Open Source Projects**
@@ -23,4 +23,5 @@
    <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
    <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/> 
    <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/react.png"/> 
+   <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png"/> 
 </p>
