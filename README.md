@@ -26,3 +26,8 @@
    <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> 
    <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/> 
 </p>
+
+<p align="center">
+   <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/>
+   <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>   
+</p>
