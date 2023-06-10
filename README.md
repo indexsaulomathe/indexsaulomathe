@@ -24,4 +24,7 @@
    <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/> 
    <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/react.png"/> 
    <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> 
+   <img width="10%" style="padding:5px" src=" https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/> 
+   
+  
 </p>
