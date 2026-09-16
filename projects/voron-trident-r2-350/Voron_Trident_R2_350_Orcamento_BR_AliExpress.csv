@@ -1,1 +1,106 @@
 Categoria,Item,Especificação,Qtd,Unidade,Base técnica,Observações,Preço unitário (R$),Subtotal (R$),Origem compra,Status preço,Link / referência,Nota orçamento
+Frame,Perfil alumínio 2020,2020 500 mm,4,un,Voron Trident 350 BOM / R2 delta,,30.9,123.6,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 470 mm,9,un,Voron Trident 350 BOM / R2 delta,,29.05,261.41,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 470 mm c/ furação AH235,1,un,Voron Trident 350 BOM / R2 delta,,29.05,29.05,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 330 mm,1,un,Voron Trident 350 BOM / R2 delta,,20.39,20.39,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 470 mm c/ AH235,1,un,Voron Trident 350 BOM / R2 delta,,29.05,29.05,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 332 mm,1,un,Voron Trident 350 BOM / R2 delta,,20.52,20.52,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 340 mm,1,un,Voron Trident 350 BOM / R2 delta,,21.01,21.01,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Perfil alumínio 2020,2020 430 mm,1,un,Voron Trident 350 BOM / R2 delta,,26.57,26.57,Brasil,Cotado/Proporcional,https://lista.mercadolivre.com.br/perfil-2020-aluminio,"Base em perfil 2020 de 500 mm a ~R$30,90; corte/furação podem acrescentar custo."
+Frame,Trilho DIN,35 mm x 420 mm,2,un,Voron Trident 350 BOM / R2 delta,,18,36.0,Brasil,Estimativa,,
+Panels,Painel Coroplast/PP,469x469x4 mm,2,un,Voron Trident 350 BOM / R2 delta,,35,70.0,Brasil,Estimativa local,,Corte local.
+Panels,Painel Coroplast/PP,482x472x4 mm,1,un,Voron Trident 350 BOM / R2 delta,,35,35.0,Brasil,Estimativa local,,Corte local.
+Panels,Acrílico/Policarbonato transparente,241.5x473x3 mm,2,un,Voron Trident 350 BOM / R2 delta,,48,96.0,Brasil,Estimativa local,,Corte local em 3 mm.
+Panels,Acrílico/Policarbonato transparente,483x473x3 mm,2,un,Voron Trident 350 BOM / R2 delta,,48,96.0,Brasil,Estimativa local,,Corte local em 3 mm.
+Panels,Acrílico/Policarbonato transparente,483x483x3 mm,1,un,Voron Trident 350 BOM / R2 delta,,65,65.0,Brasil,Estimativa local,,Corte local em 3 mm.
+Motion,Polia GT2 20T,"5 mm bore, 6 mm belt",3,un,Voron Trident 350 BOM / R2 delta,,18,54.0,AliExpress,Estimativa,,
+Motion,Idler GT2 20T,"toothed, 5 mm bore, 6 mm belt",2,un,Voron Trident 350 BOM / R2 delta,,16,32.0,AliExpress,Estimativa,,
+Motion,Rolamento F695,flangeado,20,un,Voron Trident 350 BOM / R2 delta,,4.5,90.0,AliExpress,Estimativa,,
+Motion,Rolamento esférico GE5C,5 mm,3,un,Voron Trident 350 BOM / R2 delta,,18,54.0,AliExpress,Estimativa,,
+Motion,Eixo 5x30 mm,aço,1,un,Voron Trident 350 BOM / R2 delta,,12,12.0,Brasil,Estimativa,,
+Motion,Trilho linear MGN12H,350 mm,1,un,Voron Trident 350 BOM / R2 delta,,180.82,180.82,China via Mercado Livre,Cotado,https://lista.mercadolivre.com.br/guias-lineares-de-esferas-de,"MGN12H 350 mm encontrado por ~R$180,82."
+Motion,Trilho linear MGN9H,350 mm,2,un,Voron Trident 350 BOM / R2 delta,,161.25,322.5,China via Mercado Livre,Cotado,https://lista.mercadolivre.com.br/guia-linear-mgn-9,"MGN9H 350 mm com bloco encontrado por ~R$161,25."
+Motion,Trilho linear MGN9H,300 mm,3,un,Voron Trident 350 BOM / R2 delta,,118.19,354.57,China via Mercado Livre,Cotado,https://produto.mercadolivre.com.br/MLB-6513091822-guia-de-trilho-linear-mgn9h-300mm-com-bloco-para-impressora-_JM,Preço unitário de referência; anúncio consultado estava pausado.
+Motion,Correia GT2 aberta,"Gates LL-2GT-6, 6 mm; comprar 8 m para sobra e R2",1,un,Voron Trident 350 BOM / R2 delta,,90,90.0,AliExpress,Estimativa,,8 m Gates/compatível.
+Vibration,Pé de borracha,antivibração,4,un,Voron Trident 350 BOM / R2 delta,,8,32.0,Brasil,Estimativa,,
+Buildplate,Chapa MIC6,350x350x8 mm,1,un,Voron Trident 350 BOM / R2 delta,,480,480.0,Brasil,Estimativa local,,350x350x8 mm usinada/cortada; cotar fornecedor de alumínio.
+Buildplate,Chapa mola PEI,350x350 mm dupla face,1,un,Voron Trident 350 BOM / R2 delta,,260,260.0,AliExpress,Estimativa,,350x350 mm.
+Buildplate,Base magnética,350x350 mm alta temperatura,1,un,Voron Trident 350 BOM / R2 delta,,100,100.0,AliExpress,Estimativa,,350x350 mm alta temperatura.
+Buildplate,Heater silicone AC,"300x300 mm, 220 V, ~650 W, termistor",1,un,Voron Trident 350 BOM / R2 delta,,220,220.0,AliExpress,Estimativa,,300x300 ~650 W 220 V.
+Buildplate,Fusível térmico,125–150 °C para cama AC,1,un,Voron Trident 350 BOM / R2 delta,,18,18.0,Brasil,Estimativa,,
+Buildplate,SSR,"SSR AC de marca confiável, >=25 A",1,un,Voron Trident 350 BOM / R2 delta,,95,95.0,Brasil,Estimativa,,Preferir Fotek legítimo/Omron ou equivalente confiável.
+Buildplate,Suporte DIN para SSR,compatível,1,un,Voron Trident 350 BOM / R2 delta,,20,20.0,Brasil,Estimativa,,
+Electronics,Motor XY NEMA17,"~48 mm, 1.8°, eixo longo compatível R2",2,un,Voron Trident 350 BOM / R2 delta,,75,150.0,AliExpress,Estimativa,,Eixo longo compatível com R2.
+Electronics,Motor Z com fuso,"NEMA17 + TR8x4, 300–320 mm",3,un,Voron Trident 350 BOM / R2 delta,,110,330.0,AliExpress,Estimativa,,NEMA17 + TR8x4 integrado.
+Electronics,Motor extrusor NEMA14,"Sherpa Mini V2, pancake",1,un,Voron Trident 350 BOM / R2 delta,,85,85.0,AliExpress,Estimativa,,Pancake para Sherpa.
+Electronics,MCU,BIGTREETECH Octopus Pro,1,un,Voron Trident 350 BOM / R2 delta,,249,249.0,Brasil,Preço encontrado,https://www.garagemdoinventor.com.br/products/bigtreetech-motherboard-klipper-acessorios-para-impressora-3d-octopus-pro-v1-0-1-btt-tmc2209-tmc5160-ender-3-upgrade-voron-2-4-board,BTT Octopus Pro.
+Electronics,Driver XY,BIGTREETECH TMC5160 Pro,2,un,Voron Trident 350 BOM / R2 delta,,96.65,193.3,AliExpress,Preço de referência,https://biqu.equipment/collections/motor-driver/products/tmc5160-pro-v1-0,TMC5160 Pro.
+Electronics,Driver Z/E,BIGTREETECH TMC2209,4,un,Voron Trident 350 BOM / R2 delta,,40.16,160.64,AliExpress,Preço de referência,https://biqu.equipment/products/btt-tmc2209-stepper-driver,TMC2209.
+Electronics,Probe,BIGTREETECH Eddy USB,1,un,Voron Trident 350 BOM / R2 delta,,208.92,208.92,Brasil,Preço encontrado,https://lista.mercadolivre.com.br/eddy,BTT Eddy Duo CAN/USB encontrado no Brasil; usar modo USB.
+Electronics,Fonte 24 V,Mean Well LRS-200-24 ou equivalente de qualidade,1,un,Voron Trident 350 BOM / R2 delta,,252.98,252.98,Brasil,Preço encontrado,https://lista.mercadolivre.com.br/lrs-200-24,Mean Well LRS-200-24.
+Electronics,Entrada IEC,com fusível e chave,1,un,Voron Trident 350 BOM / R2 delta,,28,28.0,Brasil,Estimativa,,
+Electronics,Ventoinha eletrônica,60x60x20 24 V,3,un,Voron Trident 350 BOM / R2 delta,,25,75.0,Brasil,Estimativa,,
+Electronics,Host Klipper,Xeon existente,1,un,Custom,Custo de compra = R$0,0,0.0,Já possui,Confirmado,,Xeon existente.
+Electronics,Cabo USB,"blindado, Octopus ↔ host",1,un,Voron Trident 350 BOM / R2 delta,,20,20.0,Brasil,Estimativa,,
+Electronics,Cabo USB,"blindado, Eddy USB ↔ host",1,un,Voron Trident 350 BOM / R2 delta,,20,20.0,Brasil,Estimativa,,
+Toolhead,Extrusor,Sherpa Mini V2,1,un,Voron Trident 350 BOM / R2 delta,,180,180.0,AliExpress,Estimativa,,Sherpa Mini V2/clone de boa qualidade.
+Toolhead,Hotend,cerâmico high-flow compatível toolhead Voron,1,un,Voron Trident 350 BOM / R2 delta,,160,160.0,AliExpress,Estimativa,,Cerâmico high-flow.
+Toolhead,Nozzle,"0,6 mm aço endurecido / hardened",1,un,Voron Trident 350 BOM / R2 delta,,55,55.0,AliExpress,Estimativa,,"0,6 mm hardened."
+Toolhead,Fan hotend,4010 24 V,1,un,Voron Trident 350 BOM / R2 delta,,22,22.0,Brasil,Estimativa,,
+Toolhead,Blower part cooling,4020/5015 24 V conforme toolhead,1,un,Voron Trident 350 BOM / R2 delta,,25,25.0,Brasil,Estimativa,,
+Toolhead,PTFE,2 mm ID / 4 mm OD,2,m,Voron Trident 350 BOM / R2 delta,,12,24.0,Brasil,Estimativa,,
+Toolhead,LED RGB,toolhead/status,1,un,Voron Trident 350 BOM / R2 delta,,25,25.0,Brasil,Estimativa,,
+Air,Filtro recirculante,Nevermore Micro ou equivalente impresso,1,kit,Custom,,70,70.0,DIY Brasil,Estimativa,,Carcaça impressa + ferragens.
+Air,Carvão ativado,"pellets adequados para impressora 3D, sem ácido",1,kg,Custom,,80,80.0,Brasil,Estimativa,,Pellets adequados sem ácido.
+Air,Filtro HEPA,módulo compacto para exaustão,1,kit,Custom,,55,55.0,Brasil,Estimativa,,
+Air,Fan filtro,5015/6020 24 V conforme carcaça,2,un,Custom,,25,50.0,Brasil,Estimativa,,
+Filament,Dry box aquecida,caixa selada 1–2 rolos,1,kit,Custom,,110,110.0,DIY Brasil,Estimativa,,"Caixa + ferragens, sem eletrônica listada abaixo."
+Filament,Aquecedor PTC,"24 V, 80–150 W",1,un,Custom,,55,55.0,AliExpress,Estimativa,,
+Filament,Fan dry box,24 V,1,un,Custom,,20,20.0,Brasil,Estimativa,,
+Filament,Sensor temp/umidade,SHT31/SHT35,1,un,Custom,,30,30.0,Brasil,Estimativa,,
+Filament,Sílica gel reutilizável,"indicadora, 500 g",1,pct,Custom,,35,35.0,Brasil,Estimativa,,
+Filament,Passa-filamento,PC4-M10 + PTFE,2,kit,Custom,,15,30.0,Brasil,Estimativa,,
+Filament,Termostato/controlador,digital ou ESP32 dedicado,1,un,Custom,,65,65.0,Brasil,Estimativa,,
+Cables,Abraçadeiras nylon,100 mm,50,un,Voron Trident 350 BOM / R2 delta,,0.25,12.5,Brasil,Estimativa,,
+Cables,Fio silicone,24 AWG,30,m,Voron Trident 350 BOM / R2 delta,,3.5,105.0,Brasil,Estimativa,,
+Cables,Fio alimentação,18 AWG,5,m,Voron Trident 350 BOM / R2 delta,,5.0,25.0,Brasil,Estimativa,,
+Cables,Fio cama AC,silicone 1.5–2.5 mm²,3,m,Voron Trident 350 BOM / R2 delta,,8.0,24.0,Brasil,Estimativa,,
+Cables,Fio terra,verde/amarelo 1.5–2.5 mm²,3,m,Voron Trident 350 BOM / R2 delta,,6.0,18.0,Brasil,Estimativa,,
+Cables,Kit JST-XH/PH,conectores + terminais,1,kit,Voron Trident 350 BOM / R2 delta,,65,65.0,Brasil,Estimativa,,
+Cables,WAGO 221-412,2 vias,4,un,Voron Trident 350 BOM / R2 delta,,8,32.0,Brasil,Estimativa,,
+Cables,WAGO 221-415,5 vias,4,un,Voron Trident 350 BOM / R2 delta,,12,48.0,Brasil,Estimativa,,
+Cables,Corrente porta-cabos,10x11 mm,3,m,Voron Trident 350 BOM / R2 delta,,25,75.0,Brasil,Estimativa,,
+Cables,Fita VHB,3M 5952 ou equivalente,1,rolo,Voron Trident 350 BOM / R2 delta,,35,35.0,Brasil,Estimativa,,
+Cables,Espuma vedação,1 mm x 5 m,1,rolo,Voron Trident 350 BOM / R2 delta,,20,20.0,Brasil,Estimativa,,
+Cables,Espuma vedação,3 mm x 5 m,1,rolo,Voron Trident 350 BOM / R2 delta,,20,20.0,Brasil,Estimativa,,
+Cables,Ímã neodímio,6x3 mm,8,un,Voron Trident 350 BOM / R2 delta,,2.5,20.0,Brasil,Estimativa,,
+Fasteners,M5x40 SHCS,classe 10.9/inox conforme aplicação,12,un,Voron Trident 350 BOM / R2 delta,,0.35,4.2,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5x30 BHCS,classe 10.9/inox conforme aplicação,8,un,Voron Trident 350 BOM / R2 delta,,0.35,2.8,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5x16 BHCS,classe 10.9/inox conforme aplicação,30,un,Voron Trident 350 BOM / R2 delta,,0.35,10.5,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5x10 BHCS,classe 10.9/inox conforme aplicação,58,un,Voron Trident 350 BOM / R2 delta,,0.35,20.3,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5 spacer 1 mm,classe 10.9/inox conforme aplicação,24,un,Voron Trident 350 BOM / R2 delta,,0.45,10.8,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5 roll-in T-nut,classe 10.9/inox conforme aplicação,76,un,Voron Trident 350 BOM / R2 delta,,0.8,60.8,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M4x6 BHCS,classe 10.9/inox conforme aplicação,8,un,Voron Trident 350 BOM / R2 delta,,0.35,2.8,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M4 knurled nut,classe 10.9/inox conforme aplicação,4,un,Voron Trident 350 BOM / R2 delta,,1.5,6.0,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x40 SHCS,classe 10.9/inox conforme aplicação,8,un,Voron Trident 350 BOM / R2 delta,,0.35,2.8,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x30 SHCS,classe 10.9/inox conforme aplicação,23,un,Voron Trident 350 BOM / R2 delta,,0.35,8.05,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x20 SHCS,classe 10.9/inox conforme aplicação,10,un,Voron Trident 350 BOM / R2 delta,,0.35,3.5,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x16 SHCS,classe 10.9/inox conforme aplicação,17,un,Voron Trident 350 BOM / R2 delta,,0.35,5.95,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x12 SHCS,classe 10.9/inox conforme aplicação,69,un,Voron Trident 350 BOM / R2 delta,,0.35,24.15,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x8 SHCS,classe 10.9/inox conforme aplicação,170,un,Voron Trident 350 BOM / R2 delta,,0.35,59.5,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x6 BHCS,classe 10.9/inox conforme aplicação,36,un,Voron Trident 350 BOM / R2 delta,,0.35,12.6,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x12 FHCS,classe 10.9/inox conforme aplicação,12,un,Voron Trident 350 BOM / R2 delta,,0.35,4.2,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3x6 FHCS,classe 10.9/inox conforme aplicação,15,un,Voron Trident 350 BOM / R2 delta,,0.35,5.25,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 hex nut,classe 10.9/inox conforme aplicação,5,un,Voron Trident 350 BOM / R2 delta,,0.35,1.75,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 locknut,classe 10.9/inox conforme aplicação,10,un,Voron Trident 350 BOM / R2 delta,,0.35,3.5,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 washer,classe 10.9/inox conforme aplicação,5,un,Voron Trident 350 BOM / R2 delta,,0.35,1.75,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 roll-in T-nut,classe 10.9/inox conforme aplicação,95,un,Voron Trident 350 BOM / R2 delta,,0.8,76.0,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 hammer T-nut,classe 10.9/inox conforme aplicação,70,un,Voron Trident 350 BOM / R2 delta,,0.8,56.0,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M3 heat-set insert M3x5x4,classe 10.9/inox conforme aplicação,75,un,Voron Trident 350 BOM / R2 delta,,0.45,33.75,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M2x10 self tapping,classe 10.9/inox conforme aplicação,22,un,Voron Trident 350 BOM / R2 delta,,0.35,7.7,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Fasteners,M5 heat-set insert,R2 substitui M5 hex nuts em pontos revisados,20,un,R2 delta,Comprar sobra; quantidade exata pode variar por toolhead/mod.,0.45,9.0,Brasil/AliExpress,Estimativa por kit,,Comprar em kits/lotes.
+Printed,Filamento estrutural,"ABS/ASA, cor principal",1.5,kg,Voron Trident 350 BOM / R2 delta,,105,157.5,Brasil,Estimativa,,ASA/ABS bom.
+Printed,Filamento accent,ABS/ASA,0.4,kg,Voron Trident 350 BOM / R2 delta,,105,42.0,Brasil,Estimativa,,ASA/ABS bom.
+Project,Peças impressas R2,STLs oficiais Trident R2 + peças custom,1,set,Voron Trident 350 BOM / R2 delta,,0,0.0,Open source,Gratuito,https://github.com/VoronDesign/Voron-Trident,
+Project,CAD/DXF,Voron Trident R2 350,1,set,Voron Trident 350 BOM / R2 delta,,0,0.0,Open source,Gratuito,https://github.com/VoronDesign/Voron-Trident,
+Project,Firmware,Klipper + Moonraker + Mainsail,1,set,Voron Trident 350 BOM / R2 delta,,0,0.0,Open source,Gratuito,https://github.com/VoronDesign/Voron-Trident,
